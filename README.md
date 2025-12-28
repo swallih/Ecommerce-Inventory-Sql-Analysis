@@ -33,14 +33,14 @@ Each row corresponds to a unique product SKU, where the same product name may ap
 ## Project Workflow
 1. ## Database & Table Design
 
--Created a MySQL database and table with appropriate data types
--Used an auto-increment primary key for SKU identification
+Created a MySQL database and table with appropriate data types.
+Used an auto-increment primary key for SKU identification.
 
 2. ## Data Import
 
--Imported CSV data into MySQL using MySQL Workbench
--Ensured correct column mapping and UTF-8 encoding
--Excluded auto-generated primary key during import
+Imported CSV data into MySQL using MySQL Workbench.
+Ensured correct column mapping and UTF-8 encoding.
+Excluded auto-generated primary key during import.
 
 3. ## Data Exploration
 
@@ -98,8 +98,6 @@ This project is suitable for:
 - Data analyst aspirants preparing for interviews
 - Practicing SQL with realistic e-commerce data
 
-##Disclaimer
-This dataset is used strictly for educational and portfolio purposes and does not represent official data from Zepto.
 
 ## Author
 Muhammed Swalih
