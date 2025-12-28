@@ -2,7 +2,7 @@
 
 ## Overview
 
-### This project demonstrates a real-world SQL data analysis workflow using an e-commerce inventory dataset inspired by India’s quick-commerce ecosystem.
+This project demonstrates a real-world SQL data analysis workflow using an e-commerce inventory dataset inspired by India’s quick-commerce ecosystem.
 The focus is on database design, data exploration, data cleaning, and business-driven analysis using SQL.
 
 The project is built to reflect how a Data Analyst would work with raw inventory data in a retail or e-commerce environment.
@@ -33,8 +33,8 @@ Each row corresponds to a unique product SKU, where the same product name may ap
 ## Project Workflow
 1. ## Database & Table Design
 
-Created a MySQL database and table with appropriate data types.
-Used an auto-increment primary key for SKU identification.
+- Created a MySQL database and table with appropriate data types.
+- Used an auto-increment primary key for SKU identification.
 
 2. ## Data Import
 
