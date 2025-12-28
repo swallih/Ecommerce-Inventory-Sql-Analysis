@@ -90,15 +90,6 @@ Each row corresponds to a unique product SKU, where the same product name may ap
 4. Import the CSV dataset into MySQL
 5. Run the analysis queries sequentially
 
-## Use Case
-
-This project is suitable for:
-
-- SQL beginners building a first portfolio project
-- Data analyst aspirants preparing for interviews
-- Practicing SQL with realistic e-commerce data
-
-
 ## Author
 ### Muhammed Swalih
 Aspiring Data Analyst | SQL & Data Analytics Enthusiast
