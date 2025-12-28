@@ -76,12 +76,6 @@ Each row corresponds to a unique product SKU, where the same product name may ap
 - CSV dataset
 - GitHub
 
-## Repository Structure
-- ├── Zepto_SQL_data_analysis.sql
-- ├── dataset/
-- │   └── zepto.csv
-- └── README.md
-
 ## How to Run
 
 1. Clone the repository
