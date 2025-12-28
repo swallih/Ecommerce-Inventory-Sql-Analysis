@@ -100,5 +100,5 @@ This project is suitable for:
 
 
 ## Author
-Muhammed Swalih
+- ### Muhammed Swalih
 Aspiring Data Analyst | SQL & Data Analytics Enthusiast
